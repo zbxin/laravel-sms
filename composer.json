@@ -22,7 +22,8 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Toplan\\PhpSms\\PhpSmsServiceProvider"
+        "Toplan\\PhpSms\\PhpSmsServiceProvider",
+        "ZhiEq\\Sms\\SmsServiceProvider"
       ]
     }
   }
