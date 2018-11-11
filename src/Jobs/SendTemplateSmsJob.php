@@ -3,7 +3,7 @@
 namespace ZhiEq\Sms\Jobs;
 
 use Exception;
-use Toplan\PhpSms\Sms;
+use Toplan\PhpSms\Facades\Sms;
 use ZhiEq\Contracts\Job;
 
 class SendTemplateSmsJob extends Job
