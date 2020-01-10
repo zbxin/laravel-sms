@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "laravel/framework": "5.*",
+    "laravel/framework": "*",
     "toplan/phpsms": "~1.8",
     "zhieq/laravel-contracts": "^1.1"
   },
