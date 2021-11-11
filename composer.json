@@ -1,18 +1,18 @@
 {
-  "name": "zhieq/laravel-sms",
-  "description": "zhieq group sms helper",
+  "name": "zbxin/laravel-sms",
+  "description": "sms helper",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "zhieq",
-      "email": "developer@zhieq.com"
+      "name": "zbxin",
+      "email": "developer@zbxin.com"
     }
   ],
   "require": {
     "laravel/framework": "*",
     "toplan/phpsms": "~1.8",
-    "zhieq/laravel-contracts": "^1.1"
+    "zbxin/laravel-contracts": "^1.1"
   },
   "autoload": {
     "psr-4": {
@@ -23,7 +23,7 @@
     "laravel": {
       "providers": [
         "Toplan\\PhpSms\\PhpSmsServiceProvider",
-        "ZhiEq\\Sms\\SmsServiceProvider"
+        "zbxin\\Sms\\SmsServiceProvider"
       ]
     }
   }
