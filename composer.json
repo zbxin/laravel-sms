@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ZhiEq\\Sms\\": "src"
+      "zbxin\\Sms\\": "src"
     }
   },
   "extra": {
