@@ -16,14 +16,14 @@
   },
   "autoload": {
     "psr-4": {
-      "zbxin\\Sms\\": "src"
+      "Zbxin\\Sms\\": "src"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
         "Toplan\\PhpSms\\PhpSmsServiceProvider",
-        "zbxin\\Sms\\SmsServiceProvider"
+        "Zbxin\\Sms\\SmsServiceProvider"
       ]
     }
   }

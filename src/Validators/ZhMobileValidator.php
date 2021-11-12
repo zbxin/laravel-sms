@@ -1,8 +1,8 @@
 <?php
 
-namespace ZhiEq\Sms\Validators;
+namespace Zbxin\Sms\Validators;
 
-use ZhiEq\Contracts\Validator;
+use Zbxin\Contracts\Validator;
 
 class ZhMobileValidator extends Validator
 {

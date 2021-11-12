@@ -1,6 +1,6 @@
 <?php
 
-namespace ZhiEq\Sms;
+namespace Zbxin\Sms;
 
 use Illuminate\Support\ServiceProvider;
 

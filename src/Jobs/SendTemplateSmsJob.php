@@ -1,6 +1,6 @@
 <?php
 
-namespace ZhiEq\Sms\Jobs;
+namespace Zbxin\Sms\Jobs;
 
 use Exception;
 use Toplan\PhpSms\Facades\Sms;
