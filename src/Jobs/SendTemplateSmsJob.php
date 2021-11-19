@@ -4,7 +4,7 @@ namespace Zbxin\Sms\Jobs;
 
 use Exception;
 use Toplan\PhpSms\Facades\Sms;
-use ZhiEq\Contracts\Job;
+use Zbxin\Contracts\Job;
 
 class SendTemplateSmsJob extends Job
 {
