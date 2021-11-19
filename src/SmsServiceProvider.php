@@ -21,6 +21,6 @@ class SmsServiceProvider extends ServiceProvider
 
     public function boot()
     {
-        $this->validator()->extend('zh_mobile', 'ZhiEq\Sms\Validators\ZhMobileValidator@validator');
+        $this->validator()->extend('zh_mobile', 'Zbxin\Sms\Validators\ZhMobileValidator@validator');
     }
 }
